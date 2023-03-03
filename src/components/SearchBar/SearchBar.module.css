@@ -1,0 +1,14 @@
+.border {
+    border-radius: 20px;
+    font-size: 18px;
+    width: 40%;
+    background-color: grey;
+    margin-top: 50px;
+    
+}
+
+.btn{
+    font-size: 18px;
+    background-color:greenyellow;
+    border-radius: 50px;
+}

@@ -1,0 +1,42 @@
+.backgroundC {
+    font-size: 18px;
+    background-position: 100%;
+    position: center;
+    margin-top: 200px;
+}
+
+.h1{
+margin-top: 180px;
+width: auto;
+color: greenyellow;
+position: center;
+font-family: 'Grenze Gotisch', cursive;
+font-size: 150px;
+-webkit-text-stroke: 5px black;
+}
+
+.p{
+color:whitesmoke;
+font-family: 'Courier New', Courier, monospace;
+font-size-adjust: initial;
+}
+
+.label{
+    color: azure;
+    -webkit-text-stroke: 1px black;
+    font-size: 30px;
+    
+}
+
+.login{
+    color: black;
+    background-color:greenyellow;
+    font-size: large;
+    margin-left: 10rem;
+}
+
+.input {
+    background-color: black;
+    color: greenyellow;
+    font-size: large;
+}
